@@ -12,7 +12,7 @@ output = Predicted Sentiment: Negative (Confidence: 0.98)
 # As the finbert model size is around 400mbs+ I have shared google drive link to access the model for bulding more better predictive system or stock forecasting system.
 link = https://drive.google.com/file/d/1uHbJexJ1xNMVarMWW0FQT4d78gFQlFmW/view?usp=drive_link
 
-# The dataset i have used is also shared in the repo. 
-#AS I WILL BE UPDATING THE MODEL FREQUENTLY WITH DIFFERENT LOSS FUNCTIONS AND TRAINING IT TO REDUCE TRAIN LOSS AND VAL LOSS (ps: cuurently it is trainloss=0.173400 and valloss=0.156230 which i think is huge number )SO WILL WORK ON TO PROVIDE BETTER RESULTS.
+# The dataset which I have used is also shared in the repo. 
+#AS I WILL BE UPDATING THE MODEL FREQUENTLY WITH DIFFERENT LOSS FUNCTIONS AND TRAINING IT TO REDUCE TRAIN LOSS AND VAL LOSS (ps: currently it is trainloss=0.173400 and valloss=0.156230 which i think is huge number )SO WILL WORK ON TO PROVIDE BETTER RESULTS.
 
 THANK YOU . STUDY HARD ,SCORE WELL , KEEP CODING.
